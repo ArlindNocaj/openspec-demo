@@ -44,3 +44,5 @@ context: |
     - Favorites or reading lists
     - Mobile-first (responsive but desktop-first)
     - i18n
+githubCopilot:
+  cloudAgent: false
